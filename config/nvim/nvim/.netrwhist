@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/pavel/.config/polybar'
+let g:netrw_dirhist_6='/home/pavel/.config'
+let g:netrw_dirhist_5='/home/pavel/.config/polybar'
+let g:netrw_dirhist_4='/home/pavel'
+let g:netrw_dirhist_3='/home/pavel/.config/alacritty'
+let g:netrw_dirhist_2='/home/pavel/.config/polybar'
+let g:netrw_dirhist_1='/home/pavel/.local/share/gnome-shell/extensions/ding@rastersoft.com'
